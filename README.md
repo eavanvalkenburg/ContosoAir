@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://edvanvs.visualstudio.com/generaldev/_apis/build/status/eavanvalkenburg.ContosoAir?branchName=master)](https://edvanvs.visualstudio.com/generaldev/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
